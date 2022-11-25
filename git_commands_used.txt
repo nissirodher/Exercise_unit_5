@@ -1,0 +1,7 @@
+git add . (For marked ad staged, with this command we amrk that we want to add all at once.)
+
+git commit  -a -m "Commit for step 5/Commit for step 6" (Save the changes in database)
+
+git pull (To download the latest changes)
+
+git push (Upload this changes)
